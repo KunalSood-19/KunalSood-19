@@ -1,204 +1,46 @@
-<!-- ======================= PROFILE HEADER ======================= -->
+# 💫 About Me:
+B.E. CSE'27 @ Chitkara University | Java & DSA Enthusiast | Video Editor & Graphic Designer | IEEE-CIET Graphic Executive 🚀
 
-<h1 align="center">
-  Hi, I'm Kunal Sood 👋
-</h1>
+- 🌱 Currently learning **Java** and strengthening my **DSA** skills
+- 🎨 Passionate about **Video Editing** and **Graphic Designing**
+- 💻 Exploring **Full Stack Development** and building impactful projects
+- 📫 Connect with me on **LinkedIn**
 
-<h3 align="center">
-  Full Stack Developer &nbsp;•&nbsp; Third-Year Computer Science Student &nbsp;•&nbsp; Java & DSA Enthusiast
-</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalsood19)
 
-<p align="center">
-  <i>
-    Building scalable applications, solving meaningful problems, and continuously learning new technologies.
-  </i>
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KunalSood-19&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=KunalSood-19&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSood-19&theme=blue-green&layout=compact)
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KunalSood-19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
-
----
-
-## 👨‍💻 About Me
-
-> **Full Stack Developer focused on building modern, scalable, and user-centric applications.**
-
-I'm a **third-year Computer Science Engineering student at Chitkara University**, passionate about software development and problem-solving. I enjoy transforming ideas into functional digital products and working with technologies that solve real-world problems.
-
-- 🔭 Currently building **Full Stack and Real-Time Applications**
-- 🌱 Strengthening **Java, Data Structures & Algorithms**
-- ⚡ Working with **React, Node.js, Express.js, and Databases**
-- 🧠 Exploring **AI, Machine Learning, WebRTC, and Real-Time Systems**
-- 🎯 Focused on becoming a skilled **Software Engineer**
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KunalSood-19&limit=6&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎬 GrabMyShow
-
-**Full-Stack Movie Booking Platform**
-
-Movie browsing, theatre management, real-time seat reservations, food ordering, restaurant booking, and secure payments.
-
-**Tech Stack**
-
-`JavaScript` · `Node.js` · `Express.js` · `MongoDB` · `PostgreSQL` · `Socket.IO` · `JWT`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 💼 JobConnect
-
-**Recruitment & Career Platform**
-
-Connects students and recruiters through job applications, interview scheduling, offer letters, and real-time notifications.
-
-**Tech Stack**
-
-`React.js` · `TypeScript` · `Node.js` · `Express.js` · `PostgreSQL` · `Prisma` · `Supabase`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎥 MeetHub+
-
-**Real-Time Collaboration Platform**
-
-Video conferencing with screen sharing, live chat, AI meeting summaries, and collaborative tools.
-
-**Tech Stack**
-
-`JavaScript` · `Node.js` · `Express.js` · `Socket.IO` · `WebRTC` · `AI`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-
-### Databases & Backend
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma,supabase" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-| Focus Area | Currently Exploring |
-|:---:|:---|
-| ☕ **Programming** | Advanced Java & Object-Oriented Programming |
-| 🧩 **Problem Solving** | Data Structures & Algorithms |
-| 🌐 **Development** | Scalable Full Stack Architecture |
-| ⚡ **Real-Time Systems** | Socket.IO & WebRTC |
-| 🤖 **Emerging Tech** | AI & Machine Learning |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img 
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
-/>
-
-<img 
-  height="165"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
-/>
-
-<br/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
-/>
-
-</div>
-
----
-
-## 🎯 Areas of Interest
-
-<p align="center">
-
-`Full Stack Development` &nbsp; • &nbsp;
-`System Design` &nbsp; • &nbsp;
-`Real-Time Applications` &nbsp; • &nbsp;
-`Artificial Intelligence` &nbsp; • &nbsp;
-`Problem Solving`
-
-</p>
-
----
-
-## 🌟 Beyond Development
-
-Alongside software development, I also enjoy:
-
-<div align="center">
-
-🎨 **Graphic Design** &nbsp;&nbsp; | &nbsp;&nbsp;
-🎬 **Video Editing** &nbsp;&nbsp; | &nbsp;&nbsp;
-💡 **Exploring Product Ideas** &nbsp;&nbsp; | &nbsp;&nbsp;
-🧩 **Solving Coding Problems**
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Build with curiosity. Learn with consistency. Improve with every iteration."*
-
-<br/>
-
-**Thanks for visiting my profile! ⭐**
-
-Feel free to explore my repositories and connect with me.
-
-</div>
+[![](https://komarev.com/ghpvc/?username=KunalSood-19&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/KunalSood-19)
