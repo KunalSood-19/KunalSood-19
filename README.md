@@ -6,7 +6,7 @@
   A local file path will not render on GitHub — it must live in the repo.
 -->
 <div align="center">
-  <img src="Banner.png" alt="Kunal Sood banner" width="100%"/>
+  <img src="banner.png" alt="Kunal Sood banner" width="100%"/>
 </div>
 
 <!-- ===================== TYPING INTRO ===================== -->
