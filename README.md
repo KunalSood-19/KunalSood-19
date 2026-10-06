@@ -1,48 +1,36 @@
-<!-- ===================== BANNER ===================== -->
 <!--
-  IMPORTANT: Upload the attached banner image into THIS repo (the one named
-  exactly "KunalSood-19", GitHub's special profile-README repo) and name it
-  "banner.png" at the root. The line below then renders it automatically.
-  A local file path will not render on GitHub — it must live in the repo.
+  Setup: repo must be named "KunalSood-19" (public) with this file at the root as README.md.
+  Upload banner.png to the repo root.
 -->
+
 <div align="center">
   <img src="banner.png" alt="Kunal Sood banner" width="100%"/>
-</div>
-
-<!-- ===================== TYPING INTRO ===================== -->
-<div align="center">
 
   <a href="https://github.com/KunalSood-19">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Kunal+Sood+%F0%9F%91%8B;Third-Year+B.Tech+CSE+%40+Chitkara+University+%F0%9F%8E%93;Full+Stack+%2B+AI+App+Developer+%F0%9F%92%BB;Graphics+Executive+%40+IEEE-CIET+%F0%9F%8E%A8;Building+for+the+Indian+Market+%F0%9F%87%AE%F0%9F%87%B3" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1400&color=60A5FA&center=true&vCenter=true&width=760&height=50&lines=Third-Year+B.Tech+CSE+Student+%40+Chitkara+University;Full-Stack+Developer+%7C+DSA+in+Java;Video+Editing+%26+Graphic+Design;Building+AI-powered+products+for+India" alt="Third-Year B.Tech CSE Student at Chitkara University | Full-Stack Developer | DSA in Java | Video Editing & Graphic Design"/>
   </a>
 
-  <br><br>
+  <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=KunalSood-19&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/KunalSood-19?label=Followers&style=for-the-badge&color=1E40AF"/>
-  <img src="https://img.shields.io/github/stars/KunalSood-19?label=Stars&style=for-the-badge&color=2563EB"/>
-
+  <a href="https://www.linkedin.com/in/kunalsood19"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kunalsoodin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-1D4ED8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:kunaalsood15@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1D4ED8?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+ 
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-1D4ED8?style=flat-square&labelColor=0F172A" alt="Open to opportunities"/>
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 👨‍💻 About
+
+I'm a third-year B.Tech CSE student at Chitkara University who builds end-to-end web and mobile products, from database design and APIs to the interface, with AI features where they add real value. I also bring hands-on experience in graphic design and video editing, which helps me ship products that are both well-engineered and visually polished. My focus is on applications for the Indian market.
 
 ```java
 public class KunalSood {
-
-    String role        = "Third-Year B.Tech CSE @ Chitkara University";
-    String orgRole      = "Graphics Executive @ IEEE-CIET";
-    String focus        = "Full-Stack Development + AI-Powered Apps";
-    String targetMarket = "India";
-
-    String[] currentlyBuilding = {
-        "JobConnect AI  — AI job platform for the Indian market",
-        "Android Anti-Theft Tracker — Flutter",
-        "Punjab Crop Recommendation System — ML"
-    };
-
-    String goal = "Ship real products, not just tutorials.";
+    String education = "B.E. CSE (3rd Year) @ Chitkara University";
+    String focus     = "Full-Stack Development";
+    String interests = "Video Editing & Graphic Design";
+    String goal      = "Ship real products, not just tutorials.";
 }
 ```
 
@@ -50,91 +38,63 @@ public class KunalSood {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages & Core**
-<br>
-<img src="https://skillicons.dev/icons?i=java,ts,js,python" />
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
-
-**Backend & Data**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,firebase" />
-
-**Tools & Platforms**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,vercel" />
-
-</div>
-
-<details>
-<summary><b>🔎 Full stack breakdown</b></summary>
-<br>
-
-| Category | Stack |
-|---|---|
-| **Languages** | Java (DSA focus), TypeScript/JavaScript, Python |
-| **Frontend** | React, React Native (Expo), Next.js, Tailwind CSS v4, Framer Motion, shadcn/ui |
-| **Backend** | Node.js, Express, Socket.io (WebRTC) |
-| **Data / Auth** | Supabase, MongoDB (Atlas), Firebase, Prisma ORM |
-| **AI / ML** | Gemini API, Groq API, classification & regression models |
-| **Tooling** | Vite, pnpm monorepos, React Query, Git/GitHub, Bash |
-| **Coursework** | Discrete Structures, DSA, Computer Networking |
-
-</details>
+<table>
+  <tr>
+    <td width="150"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,ts,js,python,dart&theme=dark" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma&theme=dark" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase,prisma&theme=dark" alt="Backend and data"/></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,vercel,vite&theme=dark" alt="Tools"/></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>Gemini API &nbsp;·&nbsp; Groq API &nbsp;·&nbsp; Scikit-learn &nbsp;·&nbsp; Regression, SVM, KNN, Decision Trees</td>
+  </tr>
+  <tr>
+    <td><b>Design &amp; Media</b></td>
+    <td>Graphic Design &nbsp;·&nbsp; Video Editing &nbsp;·&nbsp; UI/UX with Figma</td>
+  </tr>
+  <tr>
+    <td><b>Foundations</b></td>
+    <td>Data Structures &amp; Algorithms (Java) &nbsp;·&nbsp; Discrete Structures &nbsp;·&nbsp; Computer Networking</td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tech Stack | Status | Repo | Live Demo |
-|---|---|---|---|---|---|
-| **JobConnect AI** | AI-powered job platform built for the Indian market — my primary full-stack project | React · TypeScript · Supabase · Prisma · Tailwind v4 · React Query | 🟡 In Progress | [Repo](https://github.com/KunalSood-19/jobconnect-ai) | [Live](https://your-live-link.vercel.app) |
-| **SmartLens AI** | Document scanner app with OCR, AI summarization, math solving, receipt reading & a PDF vault | React Native (Expo) · Supabase · Gemini API | 🟢 Completed | [Repo](https://github.com/KunalSood-19/smartlens-ai) | [Live](https://your-live-link.vercel.app) |
-| **MeetApp Pro** | WebRTC video conferencing app with AI meeting summaries, shared whiteboard & collaborative notepad | Node.js · Express · Socket.io · WebRTC | 🟢 Completed | [Repo](https://github.com/KunalSood-19/meetapp-pro) | [Live](https://your-live-link.vercel.app) |
-| **UrbanHub** | Multi-service urban platform integrating movie ticket booking (GrabMyShow) with home services | React · MongoDB Atlas · Firebase | 🟢 Completed | [Repo](https://github.com/KunalSood-19/urbanhub) | [Live](https://your-live-link.vercel.app) |
-| **Android Anti-Theft Tracker** | Android anti-theft tracking app with OS-level systems depth | Flutter | 🟡 In Progress | [Repo](https://github.com/KunalSood-19/anti-theft-tracker) | — |
-| **Punjab Crop Recommendation System** | District-wise, Punjab-specific crop recommendation system using verified soil nutrient data | Python · ML | 🟡 In Progress | [Repo](https://github.com/KunalSood-19/crop-recommendation) | — |
-| **Fake Job Listing Detector** | ML group project detecting scam job postings — regression, classification, SVM, KNN, decision trees | Python · Scikit-learn | 🟢 Completed | [Repo](https://github.com/KunalSood-19/fake-job-detector) | — |
-| **Portfolio Site** | Personal portfolio with a dark code-editor aesthetic, syntax-highlighted profile panel & animated backgrounds | Next.js · Tailwind · Framer Motion · shadcn/ui | 🟢 Completed | [Repo](https://github.com/KunalSood-19/portfolio) | [Live](https://your-live-link.vercel.app) |
+<br/>
 
-> 📌 Replace the placeholder repo/live links above with your real URLs once ready — just swap the `(https://...)` part next to each project.
-
----
-
+| Project | Description | Stack | Status | Links |
+|---|---|---|:-:|---|
+| **Vertex** | AI-powered career and recruitment platform with resume building, ATS analysis, AI interview preparation, job recommendations, and recruiter candidate screening. | `React` `TypeScript` `Supabase` `Prisma` `Tailwind v4` |  ![](https://img.shields.io/badge/-Completed-22C55E?style=flat-square)| [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://job-connect-ai-jobconnect-ai-omega.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KunalSood-19/Job-Connect-AI) |
+| **Optix** | Intelligent document scanner and Google Lens alternative featuring Circle-to-Search, OCR, AI summaries, math solving, object detection, and a secure PDF vault. | `React Native` `Expo` `Supabase` `Groq AI` | ![](https://img.shields.io/badge/-Completed-22C55E?style=flat-square) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KunalSood-19/Optix_AI) |
+| **InsightCart** | Interactive e-commerce analytics dashboard providing sales, revenue, order, product, and customer insights through data-driven visualizations. | `HTML` `CSS` `JavaScript` `Chart.js` `Node.js` `Express.js` `MySQL` | ![](https://img.shields.io/badge/-Completed-22C55E?style=flat-square) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KunalSood-19/InsightCart) |
+| **MeetHub+** | WebRTC video calling platform with AI meeting summaries, shared whiteboard, and collaborative notepad. | `Node.js` `Express` `Socket.io` `WebRTC` | ![](https://img.shields.io/badge/-Completed-22C55E?style=flat-square) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KunalSood-19/MeetHub-) |
+| **UrbanHub** | Movie ticket booking platform combined with convenient home service booking. | `React` `MongoDB` `Firebase` | ![](https://img.shields.io/badge/-Completed-22C55E?style=flat-square) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KunalSood-19/UrbanHub) |
+| **Portfolio Site** | Dark code-editor style personal portfolio with animated backgrounds and interactive sections. | `Next.js` `Tailwind` `Framer Motion` | ![](https://img.shields.io/badge/-Completed-22C55E?style=flat-square) | [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://kunalsoodin.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KunalSood-19/portfolio) |
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalSood-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=2563EB" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSood-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalSood-19&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalSood-19&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=2563EB&point=ffffff" width="100%"/>
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KunalSood-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&count_private=true&v=1" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSood-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&v=1" alt="Top languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=KunalSood-19&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=60A5FA&v=1" alt="Streak"/>
 </div>
-
----
-
-## 📫 Connect With Me
+<br/>
 
 <div align="center">
-
-<a href="https://github.com/KunalSood-19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:05002E&height=100&section=footer"/>
-
+  <sub>Open to internships and collaborations · Let's build something together</sub>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F172A&height=70&section=footer" width="100%" alt=""/>
 </div>
